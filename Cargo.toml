@@ -1,0 +1,8 @@
+[package]
+name = "mix"
+version = "0.1.0"
+authors = ["emekoi <emekankurumeh@outlook.com>"]
+
+[dependencies]
+cpal = "0.8.0"
+wavefile = "0.2.0"
